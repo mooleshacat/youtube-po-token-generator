@@ -8,7 +8,7 @@ This library has been modified to allow the usage of a proxy. You can define the
 
 This is more of a small library, it does not have a main executable or a method to install.
 
-The script that grabs the tokens is `./examples/one-shot.js` you can run it by `node one-shot.js`
+I have left lots of the original maintainer's comments within the readme and other files.
 
 ## How it works
 
