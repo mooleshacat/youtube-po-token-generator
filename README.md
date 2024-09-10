@@ -35,7 +35,8 @@ node one-shot.js
 
 ## Related works
 
-This project is inspired by https://github.com/iv-org/youtube-trusted-session-generator .
+This project is inspired by https://github.com/iv-org/youtube-trusted-session-generator .<br />
+This project is a fork of https://github.com/YunzheZJU/youtube-po-token-generator with minimal changes to add http proxy.
 
 ## More
 
