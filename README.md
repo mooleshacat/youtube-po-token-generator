@@ -4,6 +4,12 @@
 
 This program outputs the mysterious pair `{ visitorData, poToken }`, with the help of `js-dom`.
 
+This program has been modified to allow the usage of a proxy. You can define the proxy address in ./lib/consts.js
+
+This is more of a small library, it does not have a main executable or a method to install.
+
+The script that grabs the tokens is `./examples/one-shot.js` you can run it by `node one-shot.js`
+
 ## How it works
 
 Only one network request is made to get a fresh copy of `visitorData`.
