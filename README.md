@@ -36,7 +36,6 @@ Edit the `./lib/consts.js` to add your HTTP proxy.
 
 Run example
 ```bash
-cd youtube-po-token-generator
 node get-tokens.js
 ```
 
