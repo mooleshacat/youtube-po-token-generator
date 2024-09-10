@@ -10,6 +10,10 @@ This is more of a small library, it does not have a main executable or a method 
 
 I have left lots of the original maintainer's comments within the readme and other files.
 
+## Requirements
+
+This program requires the latest NodeJS which can be installed easily with NVM ( https://github.com/nvm-sh/nvm )
+
 ## How it works
 
 Only one network request is made to get a fresh copy of `visitorData`.
