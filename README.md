@@ -33,8 +33,7 @@ npm install
 
 Run example
 ```bash
-cd examples
-node one-shot.js
+node get-tokens.js
 ```
 
 ## Related works
