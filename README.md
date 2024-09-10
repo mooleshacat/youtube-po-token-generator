@@ -4,7 +4,7 @@
 
 This program outputs the mysterious pair `{ visitorData, poToken }`, with the help of `js-dom`.
 
-This library has been modified to allow the usage of an unauthenticated proxy. You can define the proxy address in ./lib/consts.js
+This library has been modified to allow the usage of an unauthenticated proxy. You can define the proxy address in `./lib/consts.js`
 
 This is more of a small library, it does not have a main executable or a method to install.
 
