@@ -31,6 +31,8 @@ cd youtube-po-token-generator
 npm install
 ```
 
+Edit the `./lib/consts.js` to add your HTTP proxy.
+
 Run example
 ```bash
 node get-tokens.js
