@@ -29,6 +29,7 @@ Installation
 git clone https://github.com/mooleshacat/youtube-po-token-generator
 cd youtube-po-token-generator
 npm install
+npm install request
 ```
 
 Edit the `./lib/consts.js` to add your HTTP proxy.
