@@ -20,30 +20,17 @@ No real browser is required to install.
 
 ## How to use
 
+Installation
 ```bash
-yarn add youtube-po-token-generator
-# Or
-npm install youtube-po-token-generator
+git clone https://github.com/mooleshacat/youtube-po-token-generator
+cd youtube-po-token-generator
+npm install
 ```
 
-See `examples` for simple usages.
-
-```javascript
-const { generate } = require('youtube-po-token-generator')
-
-generate().then(console.log, console.error)
-// => { visitorData: '...', poToken: '...' }
-```
-
-Require `lib/task` directly if you have already prepared your `visitorData`.
-
-```javascript
-const { createTask } = require('youtube-po-token-generator/lib/task')
-
-const visitorData = '...'
-
-createTask(visitorData).then(task => task.start).then(console.log, console.error)
-// => { poToken: '...' }
+Run example
+```bash
+cd examples
+node one-shot.js
 ```
 
 ## Related works
