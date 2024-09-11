@@ -1,5 +1,7 @@
 # YouTube PoToken Generator
 
+## Notice: I've broken the code and I can't fix it.
+
 ## Introduction
 
 This program outputs the mysterious pair `{ visitorData, poToken }`, with the help of `js-dom`.
